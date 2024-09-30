@@ -1,2 +1,9 @@
 # API keys
 .env
+
+# Notebooks
+test.ipynb
+test_langchain.ipynb
+
+# Environment
+.venv
