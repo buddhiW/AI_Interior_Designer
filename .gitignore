@@ -4,6 +4,14 @@
 # Notebooks
 test.ipynb
 test_langchain.ipynb
+langgraph.ipynb
+customer_support.ipynb
 
 # Environment
 .venv
+
+# Datasets
+*.sqlite
+
+# Compiled Python files
+*.pyc
