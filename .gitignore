@@ -7,6 +7,7 @@ test_langchain.ipynb
 langgraph.ipynb
 customer_support.ipynb
 customer-support.ipynb
+agent_supervisor.ipynb
 # Environment
 .venv
 
